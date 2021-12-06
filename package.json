@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pass-js/pass/issues"
   },
-  "homepage": "https://github.com/pass-js/pass#readme"
+  "homepage": "https://github.com/pass-js/pass#readme",
+  "devDependencies": {
+    "eslint": "^8.4.0"
+  }
 }
